@@ -2,7 +2,7 @@
 
 This website has been optimised for performing at 60fps, below there are various steps that has been performed to run this website at 60fps.
 
-There are two parts in this repository cam's profile and other one is pizza website. Cam's website can be opened using [cam's portfolio](index.html) index.html and pizza [pizza](views/pizza.html).
+There are two parts in this repository cam's profile and other one is pizza website. Cam's website can be opened using [cam's portfolio](index.html) index.html and [pizza](views/pizza.html).
 
 
 To check the performance of the website we need to run these files on a server, this can be accomplished by running a python server or downloading fenix server.
